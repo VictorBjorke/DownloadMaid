@@ -24,9 +24,7 @@ Say **goodbye** to a messy Downloads folder and enjoy a cleaner and more organiz
 
 🌐 **Open Source**: Contribute, enhance, or customize the script to suit your needs.
 
-📋 **Prerequisites**: macOS (tested on macOS 10.15 and later), Bash shell.
-
-📃 **Documentation**: Find installation and usage details in the DownloadMaid documentation.
+📋 **Prerequisites**: macOS (tested on macOS 10.15 and later).
 
 ## Installation Guide
 
