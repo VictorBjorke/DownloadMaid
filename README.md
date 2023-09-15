@@ -5,6 +5,8 @@ Always backup files before running any automation scripts.
 It is generally not adviseable to run scripts you don't understand on your computer, but in this case
 I pinky promise that it's not made to hurt your machine, but just does what's described below.
 
+In case you do understand the script: go nuts, have fun, change it, sell it, print it out and eat it, I don't care.
+
 ## About
 
 **DownloadMaid** is a Bash script designed to simplify your digital life by automatically organizing your cluttered Downloads folder on macOS. 
